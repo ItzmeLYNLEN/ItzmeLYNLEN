@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src=”http://[link-foto](https://images8.alphacoders.com/807/807564.jpg)”>
 <!--
 **ItzmeLYNLEN/ItzmeLYNLEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
