@@ -19,6 +19,8 @@ I am a Junior SoftWare Engineering <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Informatics.
 
+<hr>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40">&nbsp;
@@ -33,7 +35,7 @@ I am a Junior SoftWare Engineering <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+<hr>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/dzikraa_24">
     <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
