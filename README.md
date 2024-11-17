@@ -1,23 +1,10 @@
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" align="center">
-  <a href="https://www.instagram.com/dzikraa_24">
-    <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:m.daffa342@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -46,6 +33,18 @@ I am a Junior SoftWare Engineering <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+<div id="badges" align="center">
+  <a href="https://www.instagram.com/dzikraa_24">
+    <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:m.daffa342@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <!--
 **ItzmeLYNLEN/ItzmeLYNLEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
