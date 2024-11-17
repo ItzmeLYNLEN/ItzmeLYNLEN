@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.instagram.com/dzikraa_24/)">
+  <a href="https://www.instagram.com/dzikraa_24">
     <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:m.daffa342@gmail.com">
