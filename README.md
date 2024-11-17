@@ -41,7 +41,7 @@ I am a Junior SoftWare Engineering <img src="https://media.giphy.com/media/WUlpl
     <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
   </a>
   <a href="mailto:m.daffa342@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email&logoColor=white" alt=""/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=twitter&logoColor=white" alt=""/>
