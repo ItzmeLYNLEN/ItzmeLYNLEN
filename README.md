@@ -14,10 +14,8 @@
 
 ### :woman_technologist: About Me :
 
-I am a Junior SoftWare Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bogor, Indonesia.
-- :telescope: I’m  a student from the BSI campus.
+Saya adalah seorang anak yang sangat amat rajin, tapi rajin itu akan hilang ketika saya sedang malas, dan sifat malas saya selalu ada di setiap hari maka dari itu saya sebenarnya rajin tapi saya sering malas aja hehe, Saya merupakan seorang mahasiswa dari Prodi Informatika <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Informatics.
 
 <hr>
 
