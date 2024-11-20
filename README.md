@@ -4,12 +4,12 @@
 
 
 <h1 align="center">
-  Hey there
+  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ5cW8yMW52YncyYWMyZ2d1dTc1NTZ0Zjd1cGZpYWJycDJzeWIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWn7lzXue8C7voGFHn/giphy.webp" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHF5d2VjM3VuZ3Y4MG5zbTB3MDIwbzV2eDN2YzNkMnVqZzN4ODQwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9nJiDti5uXWMg/giphy.webp" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
