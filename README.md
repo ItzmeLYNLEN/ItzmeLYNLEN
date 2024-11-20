@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ5cW8yMW52YncyYWMyZ2d1dTc1NTZ0Zjd1cGZpYWJycDJzeWIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWn7lzXue8C7voGFHn/giphy.webp" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
