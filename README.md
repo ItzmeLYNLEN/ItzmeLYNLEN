@@ -33,7 +33,7 @@ Saya adalah seorang anak yang sangat amat rajin, tapi rajin itu akan hilang keti
   <a href="https://www.instagram.com/dzikraa_24">
     <img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt=""/>
   </a>
-  <a href="mailto:m.daffa342@gmail.com">
+  <a href="mailto:muhdaffaad@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-daffa-adz-dzikraa-b81788320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
